@@ -1,0 +1,66 @@
+
+
+
+.o-konferencii-spikri {	height: 12px;	max-width: 612px;	color: #5B6476;	font-family: Montserrat, sans-serif;	font-size: 12px;	font-weight: 700;	line-height: 12px;}
+
+.nav-block {	height: 12px;	width: 612px; color: #5B6476; font-family: Montserrat, sans-serif;	font-size: 12px;	font-weight: 600;	line-height: 12px; padding-top: 20px;}
+
+.experience-conferenc {	height: 125px;	width: 368px;margin-top: 240px; margin-bottom: 20px; padding: 2px;}
+
+.experience-conferenc h1 {
+	font-size: 66px;
+	font-weight: bold;
+	background: -webkit-linear-gradient(231.41deg, #75E9FF 0%, #76FFA9 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.an-international-con {	height: 62px;	max-width: 380px;	color: #5B6476;	font-family: Montserrat;	font-size: 20px;	font-weight: 300;	line-height: 30px;}
+
+.3-2-2017-rafinery-ga {	height: 82px;	max-width: 253px;	color: #5B6476;	font-family: Montserrat;	font-size: 28px;	font-weight: 600;	line-height: 41px;}
+
+
+
+.heading {
+	font-family: Montserrat, sanf-serif;
+	font-weight: 300;
+	font-size: 24px;
+	color: #5B6476;
+	line-height: 30px;
+	padding-top: 30px;
+}
+
+.date {
+	font-family: Montserrat, sanf-serif;
+	font-weight: 900;
+	font-size: 28px;
+	color: #5B6476;
+	line-height: 41px;
+	margin-top: 60px;
+	padding-top: 30px;
+}
+
+.place {
+	font-family: Montserrat, sanf-serif;
+	font-weight: 300;
+	font-size: 24px;
+	color: #5B6476;
+	line-height: 30px;
+	margin-top: 10px;
+	
+}
+
+.button-buy {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: Montserrat, sanf-serif;
+	height: 60px;
+	width: 233px;
+	border-radius: 100px;
+	color: #FFFFFF;
+	background-color: #5B6476;
+	font-size: 12px;
+	font-weight: 600;
+	letter-spacing: 2px;
+	line-height: 12px;
+}
